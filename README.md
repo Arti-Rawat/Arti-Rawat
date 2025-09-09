@@ -6,8 +6,7 @@ Senior Software Engineer
 
 A professional expertise in application development with 8 Years 3 Months of experience. PHP | Angular | Javascript | Jquery | Mysql | Sql | Docker | Phpunit | Java | Symfony | Zend | Codeigniter | Sockets | Design Patterns | Solid | Apis | Rest | Soap | Db2 | Spring Boot | REST APIs | Hibernate | AWS | Microservices | SQL | Vue.js | HTML | CSS | Yii | Symfony | AJAX | JSON | Angular.js | AWS | Microsoft Azure | ABAP Languages: German Language Proficiency Scale (Level A1 , A2 , B1 , B2) . I have a g.a.s.t. B1 certificate in German, which enables me to communicate effectively with our international clients and partners. English — Fluent Hindi — Fluent
 
-* 🌍  I'm based in Germany
-* ✉️  You can contact me at [](mailto:)
+
 
 ### Skills
 
