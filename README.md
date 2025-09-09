@@ -1,4 +1,4 @@
-Hi 👋 My name is Arti Rawat
+Hi 👋 
 ===========================
 
 Senior Software Engineer
